@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with Firebase Authentication: unclear error messages. The `authBug.js` file shows how the SDK's error handling can be ambiguous.  The `authSolution.js` file provides a more robust solution that handles different error types and offers better feedback to the user.
